@@ -67,8 +67,6 @@ python detect_emotion.py
 | Model Size   | ~20 MB   |
 | Inference Time | ~40 ms per frame |
 
-Sample detected emotions:
-![Sample Emotions](path_to_sample_images)
 
 ---
 
